@@ -22,6 +22,7 @@ Silahkan baca [CONTRIBUTING](CONTRIBUTING.md).
 + [Android](books/android.md)
 + [Assembly](books/assembly.md)
 + [C](books/c.md)
++ [Dart](books/Dart.md)
 + [Data Science](books/data_sciences.md)
 + [Digital Forensik](books/digital_foresnsik.md)
 + [Flutter](books/flutter.md)
