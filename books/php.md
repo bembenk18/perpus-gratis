@@ -1,1 +1,2 @@
-
+- [PHP Programming Fundamental dan MySQL Fundamental](https://drive.google.com/file/d/0Bzg4OzK2yiK2TEt2anBNcmZ3VXc/view?resourcekey=0-oufOaBcoRUuChyRz3XQ-7w)
+- [Menyelam & Menaklukkan Samudra PHP](https://drive.google.com/file/d/0Bzg4OzK2yiK2WnBSTDZvUC1kcnc/view?resourcekey=0-yE7dofeJfbDzqjhTWZ3CVw)
