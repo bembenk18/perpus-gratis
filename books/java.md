@@ -1,1 +1,2 @@
 - [*Think Java* by Allen Downey and Chris Mayfield](https://greenteapress.com/wp/think-java): Introduction to computer science and programming intended for people with little or no experience.
+- [Java: Java Programming For Beginners](https://www.pdfdrive.com/java-java-programming-for-beginners-a-simple-start-to-java-programming-d186416077.html): A Simple Start to Java Programming
